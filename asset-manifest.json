@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/talk_flow/static/css/main.71e46c07.chunk.css",
+    "main.js": "/talk_flow/static/js/main.3b009fac.chunk.js",
+    "main.js.map": "/talk_flow/static/js/main.3b009fac.chunk.js.map",
+    "runtime-main.js": "/talk_flow/static/js/runtime-main.68980da8.js",
+    "runtime-main.js.map": "/talk_flow/static/js/runtime-main.68980da8.js.map",
+    "static/js/2.f3d7cc7c.chunk.js": "/talk_flow/static/js/2.f3d7cc7c.chunk.js",
+    "static/js/2.f3d7cc7c.chunk.js.map": "/talk_flow/static/js/2.f3d7cc7c.chunk.js.map",
+    "index.html": "/talk_flow/index.html",
+    "static/css/main.71e46c07.chunk.css.map": "/talk_flow/static/css/main.71e46c07.chunk.css.map",
+    "static/js/2.f3d7cc7c.chunk.js.LICENSE.txt": "/talk_flow/static/js/2.f3d7cc7c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.68980da8.js",
+    "static/js/2.f3d7cc7c.chunk.js",
+    "static/css/main.71e46c07.chunk.css",
+    "static/js/main.3b009fac.chunk.js"
+  ]
+}
